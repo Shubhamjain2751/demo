@@ -1,4 +1,2 @@
 This is from github(remote)
-
-
-new file
+hi file reformated
