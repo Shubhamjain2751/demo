@@ -2,3 +2,5 @@ This is from github(remote)
 
 new file branch2
 
+new file in branch1
+
